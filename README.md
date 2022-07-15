@@ -6,7 +6,7 @@
  - Naive Random Oversampling
  - SMOTE Oversampling
  - Undersampling
- = Combination (Over and Under) Sampling
+ - Combination (Over and Under) Sampling
  - Balanced Random Forest Classifier
  - Easy Ensemble AdaBoost Classifier
 
